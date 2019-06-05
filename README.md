@@ -4,6 +4,10 @@ Basic needs for Wii U Homebrew
 # FTP Apps for use with FTPiiU Everywhere:
 FileZilla or WinSCP
 
+# Other computer apps
+Cafiine Server UI
+https://www.dropbox.com/s/8pmrt1vsa2b2vuh/CafiineServerUI.zip?dl=0
+
 # Credits in no particular order
 Homebrew Launcher by dimok
 
