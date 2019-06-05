@@ -24,3 +24,5 @@ Disc2App by EyeKey/Fix94
 SaveMii Mod by Ryuzaki_MrL and GabyPCgeeK
 
 WUP Installer GX2 by Dj-Skual
+
+SDCafiine by Maschell/golden45
