@@ -25,4 +25,8 @@ SaveMii Mod by Ryuzaki_MrL and GabyPCgeeK
 
 WUP Installer GX2 by Dj-Skual
 
-SDCafiine by Maschell/golden45
+SDCafiine by Maschell/golden45, and others
+
+TCPGecko by BullyWiiPlaza/wj444
+
+Geckiine by OatmealDome and others
